@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "TestRepoCode"
-s.version      = "0.0.1"
+s.version      = "0.0.2"
 s.license      = "MIT"
 s.summary      = "私人pod代码"
 s.author             = { "BY" => "qiubaiyingios@163.com" }
