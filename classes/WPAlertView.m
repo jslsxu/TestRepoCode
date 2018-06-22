@@ -8,7 +8,8 @@
 
 #import "WPAlertView.h"
 
-
+@interface WPAlertView ()
+@end
 
 @implementation WPAlertView
 
